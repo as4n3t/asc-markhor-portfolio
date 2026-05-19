@@ -1,0 +1,72 @@
+# ASC Markhor Portfolio
+
+A modern personal portfolio website showcasing projects, skills, and creative work.
+
+---
+
+## 🚀 Features
+
+- Responsive Portfolio Design
+- Modern UI/UX
+- Projects Showcase
+- Skills Section
+- Contact Information
+- Fast & Lightweight
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](portfolio-page.jpg)
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📂 Project Structure
+
+```bash
+├── index.html
+├── style.css
+├── script.js
+├── portfolio-page.jpg
+└── README.md
+```
+
+---
+
+## ⚡ Getting Started
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/as4n3t/4070b56.git
+```
+
+2. Open the project folder
+
+```bash
+cd 4070b56
+```
+
+3. Run the project
+
+Open `index.html` in your browser.
+
+---
+
+## 👨‍💻 Author
+
+GitHub: [@as4n3t](https://github.com/as4n3t)
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
