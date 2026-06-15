@@ -1,49 +1,90 @@
-# 👋 ASC MARKHOR - Cybersecurity Portfolio
-/index.html /style.css /assets/images/
+# 🛡️ ASC MARKHOR | Cybersecurity Portfolio
 
-Welcome to my personal portfolio website project.
+Welcome to the official ASC Markhor Cybersecurity Portfolio.
 
----
-
-## 🚀 About Project
-This is my first cybersecurity-themed portfolio website built using:
-
-- HTML
-- CSS
-
-It showcases my learning journey in web development and cybersecurity.
+This repository serves as a central hub for cybersecurity projects, security research, technical documentation, WordPress security practices, malware investigation methodologies, and continuous professional development in modern cybersecurity.
 
 ---
 
-## 🌐 Live Demo
-👉 https://your-username.github.io/your-repo-name/
+## 🔍 Professional Focus Areas
+
+* WordPress Security & Hardening
+* Malware Investigation & Remediation
+* Website Incident Response
+* Vulnerability Assessment
+* OSINT (Open-Source Intelligence)
+* Linux Administration & Security
+* Web Application Security
+* Security Awareness & Best Practices
 
 ---
 
-## 💻 Technologies Used
-- HTML5
-- CSS3
+## 🚀 Portfolio Overview
+
+This portfolio highlights practical projects, security-focused development, technical writeups, security methodologies, and hands-on research aimed at improving defensive security capabilities and real-world problem-solving skills.
+
+Projects and resources are regularly updated to reflect ongoing learning, research, and cybersecurity best practices.
 
 ---
 
-## 📁 Features
-- Simple and clean UI
-- Cybersecurity themed design
-- Beginner-friendly structure
-- Responsive layout (basic)
+## 🛠️ Technologies & Tools
+
+* HTML5
+* CSS3
+* Linux
+* Git & GitHub
+* WordPress
+* Security Assessment Tools
+* Web Technologies
 
 ---
 
-## 📸 Preview
-(Add screenshot here later)
+## 📂 Repository Contents
+
+* Portfolio Website Source Code
+* Security Documentation
+* Technical Notes & Research
+* Cybersecurity Learning Resources
+* Security Methodologies & Checklists
+* Future Security Projects & Writeups
+
+---
+
+## 🎯 Mission Statement
+
+To contribute to a safer digital environment through continuous learning, responsible security practices, technical research, and the development of practical cybersecurity skills.
+
+---
+
+## 📈 Current Development Goals
+
+* Expanding WordPress Security Resources
+* Publishing Technical Security Writeups
+* Building Security-Focused Projects
+* Enhancing Web Security Knowledge
+* Developing Practical Incident Response Workflows
+
+---
+
+## 🤝 Professional Values
+
+* Integrity
+* Continuous Learning
+* Responsible Disclosure
+* Security-First Mindset
+* Professionalism
+* Attention to Detail
 
 ---
 
 ## 📌 Author
-- Name: ASC MARKHOR
-- Learning: Cybersecurity & Web Development
+
+**ASC MARKHOR**
+
+Cybersecurity Practitioner | Security Research | WordPress Security | OSINT
 
 ---
 
-## ⚡ Note
-This project is still in development. More features will be added soon.
+## ⚠️ Disclaimer
+
+All research, projects, and activities presented within this repository are intended solely for educational, defensive, and authorized security purposes. Unauthorized access, testing, or activities against systems without explicit permission are not supported or endorsed.
